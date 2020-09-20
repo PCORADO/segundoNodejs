@@ -1,1 +1,2 @@
-# segundoNodejs
+# battleships-game
+javaScript HTML and CSS 
